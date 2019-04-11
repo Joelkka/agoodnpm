@@ -1,0 +1,2 @@
+# agoodnpm
+A good npm
